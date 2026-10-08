@@ -159,6 +159,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 ### Practice Exams
 
 * [CloudCertPrep](https://www.cloudcertprep.io/aws/aif-c01) — Free and open-source AIF-C01 practice exams: 419 questions with explanations across all five domains. No signup, no ads, MIT licensed.
+* _paid_ [CrushCert](https://crushcert.com/aws-ai-practitioner-practice-test) — Adaptive practice questions, hands-on AWS labs and timed mock exams; 7-day free trial.
 
 ## AWS Certified Solutions Architect - Associate (SAA-C02)
 
@@ -248,7 +249,6 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 * [Official Sample Questions](https://d1.awsstatic.com/training-and-certification/docs-sysops-associate/AWS-Certified-SysOps-Administrator-Associate_Sample-Questions.pdf)
 * [Exam topics](https://www.examtopics.com/exams/amazon/aws-certified-sysops-administrator-associate/)
 * _paid_ [Tutorials Dojo 4 practice exams by Jon Bonso](https://portal.tutorialsdojo.com/courses/aws-certified-sysops-administrator-associate-practice-exams/)
-* _paid_ [CrushCert](https://crushcert.com/aws-sysops-practice-test) — Adaptive practice questions, hands-on AWS labs and timed mock exams; 7-day free trial.
 
 ### Notes
 
